@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Zentrades-Task-3n4/static/css/main.aa11df79.css",
+    "main.js": "/Zentrades-Task-3n4/static/js/main.58c76016.js",
+    "static/js/787.f1fac42b.chunk.js": "/Zentrades-Task-3n4/static/js/787.f1fac42b.chunk.js",
+    "static/media/logo.png": "/Zentrades-Task-3n4/static/media/logo.1fb62340a1b631066862.png",
+    "index.html": "/Zentrades-Task-3n4/index.html",
+    "main.aa11df79.css.map": "/Zentrades-Task-3n4/static/css/main.aa11df79.css.map",
+    "main.58c76016.js.map": "/Zentrades-Task-3n4/static/js/main.58c76016.js.map",
+    "787.f1fac42b.chunk.js.map": "/Zentrades-Task-3n4/static/js/787.f1fac42b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa11df79.css",
+    "static/js/main.58c76016.js"
+  ]
+}
